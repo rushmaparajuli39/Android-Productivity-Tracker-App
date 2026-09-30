@@ -2,6 +2,8 @@
 
 A private, offline habit tracker that installs on your phone like an app. You add the habits you want to build, check them off each day, and watch your streaks grow. Everything stays on your device, with no account, no server, and no tracking.
 
+> **How this was made:** I decided what the app should do and how it should work. Claude, an AI assistant, wrote and ran the code. Coding isn't my specialty; my background is business operations and analytics.
+
 **Try it:** https://rushmaparajuli39.github.io/Android-Productivity-Tracker-App/
 
 ![Today view, a habit's detail page, and dark mode](docs/screenshots.png)
