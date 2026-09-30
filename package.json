@@ -1,0 +1,10 @@
+{
+  "name": "habit-tracker",
+  "private": true,
+  "type": "module",
+  "description": "An offline-first habit tracker PWA.",
+  "scripts": {
+    "start": "python3 -m http.server 8000",
+    "test": "node --test tests/*.test.js"
+  }
+}
